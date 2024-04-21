@@ -75,7 +75,7 @@ f. High-level content recommendations based on our analysis.
 
 **iv. Weekly Trends:** Users track activities more on Sunday, Monday, and Tuesday compared to other weekdays.
 
-**Recommendations**
+### Recommendations
 
 **i. Enhanced Focus:** Bellabeat should emphasize tracking steps, calories, and sleep within its application based on user preferences.
 
